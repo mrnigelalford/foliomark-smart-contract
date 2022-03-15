@@ -1,0 +1,9 @@
+{
+  "name": "ligo-smart-contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@oxheadalpha/fa2-contracts": "^4.0.0"
+  }
+}
