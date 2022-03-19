@@ -5,5 +5,8 @@
   "license": "MIT",
   "devDependencies": {
     "@oxheadalpha/fa2-contracts": "^4.0.0"
+  },
+  "dependencies": {
+    "@taquito/beacon-wallet": "^12.0.0"
   }
 }
